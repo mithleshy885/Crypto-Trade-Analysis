@@ -20,7 +20,7 @@ This project analyzes crypto trading data and market sentiment (Fear-Greed Index
 
 ## Datasets & Model
 **Download the required datasets and trained model from this Google Drive folder:**
-[Project Datasets & Model](https://drive.google.com/drive/folders/1R2efjGLHCVFv-fE2_JQjsSnvx8Pa1nvm?usp=sharing)
+[Project Datasets & Model](https://drive.google.com/drive/folders/1c4__1Fxcvr10JFzWfeAb6vXDSY6LHlpk?usp=drive_link)
 - `historical_data.csv`
 - `fear_greed_index.csv`
 - `sentiment_classifier.pkl`
@@ -57,5 +57,5 @@ Place these files in your project directory before running the scripts.
 - Pattern recognition helps identify and monitor trading styles for further analysis or risk management.
 
 ## Credits
-- Data and code by Pranjul Shukla.
+- Data and code by Mithlesh Yadav.
 - For questions, see the project report or contact the author.
